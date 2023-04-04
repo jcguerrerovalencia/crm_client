@@ -3,8 +3,6 @@ import { Outlet, Link, useLocation } from "react-router-dom";
 const Layout = () => {
   const location = useLocation();
 
-  console.log(location);
-
   return (
     <div className="md:flex md:min-h-screen">
       <aside className="md:w-1/4 bg-blue-900 px-5 py-10">
@@ -18,7 +16,7 @@ const Layout = () => {
           } text-2xl block mt-2 hover:text-blue-300`}
           to="/"
         >
-          Clientes
+          Clients
         </Link>
         <Link
           className={`${
@@ -28,7 +26,7 @@ const Layout = () => {
           } text-2xl block mt-2 hover:text-blue-300`}
           to="/clients/new"
         >
-          Nuevo Cliente
+          New Client
         </Link>
       </aside>
       <main className="md:w-3/4 p-10 md:h-screen overflow-scroll">

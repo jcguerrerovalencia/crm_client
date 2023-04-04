@@ -1,41 +1,41 @@
 {
-  "clientes": [
+  "clients": [
     {
-      "nombre": "Juan (Actualizado)",
-      "empresa": "Codigo Con Juan",
+      "name": "Juan (Updated)",
+      "company": "Codigo Con Juan",
       "email": "juan@juan.com",
-      "telefono": "102013313",
-      "notas": "Nueva Nota",
+      "telephone": "102013313",
+      "notes": "New notes",
       "id": 1
     },
     {
-      "nombre": "Karen",
-      "empresa": "Codigo Con Juan",
+      "name": "Karen",
+      "company": "Codigo Con Juan",
       "email": "karen_nuevo@juan.com",
-      "telefono": "138198313",
+      "telephone": "138198313",
       "notas": "Karen desea una REST API",
       "id": 2
     },
     {
       "id": 4,
-      "nombre": "Miguel",
-      "telefono": 319381983,
+      "name": "Miguel",
+      "telephone": 319381983,
       "email": "miguel@juan.com",
-      "empresa": "Codigo Con Juan"
+      "company": "Codigo Con Juan"
     },
     {
       "id": 5,
-      "nombre": "Pedro",
-      "telefono": 1398198938,
+      "name": "Pedro",
+      "telephone": 1398198938,
       "email": "pedro@juan.com",
-      "empresa": "Codigo Con Juan"
+      "company": "Codigo Con Juan"
     },
     {
-      "nombre": "Juan Desde React",
-      "empresa": "Codigo con Juan",
-      "email": "correo@correo.com",
-      "telefono": "10901",
-      "notas": "El Cliente desea un ecommerce",
+      "name": "Juan Camilo",
+      "empresa": "Test Company",
+      "email": "jcguerrerovalencia@outlook.com",
+      "telephone": "3043762873",
+      "notes": "Client wants an ecommerce",
       "id": 6
     }
   ]
